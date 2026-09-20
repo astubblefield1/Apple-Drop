@@ -1,2 +1,0 @@
-Temp/ScriptUpdater/325267976/1625896290_MovingPlatform.cs => Assets/Cainos/Pixel Art Platformer - Village Props/Script/MovingPlatform.cs
-Temp/ScriptUpdater/325267976/912835583_BoundingPlatform.cs => Assets/Cainos/Pixel Art Platformer - Village Props/Script/BoundingPlatform.cs

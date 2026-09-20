@@ -1,0 +1,591 @@
+{
+  "context": {
+    "projectPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Packages",
+    "unityVersion": "6000.3.23f1"
+  },
+  "inputs": [
+    "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Packages/manifest.json",
+    "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Packages/packages-lock.json",
+    "/Applications/Unity/Hub/Editor/6000.3.23f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
+  ],
+  "outputs": {
+    "com.unity.2d.animation@13.0.6": {
+      "name": "com.unity.2d.animation",
+      "displayName": "2D Animation",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.2d.animation@cd6c3841e39a",
+      "fingerprint": "cd6c3841e39a6b6df9c6ac0e708819e2176a6810",
+      "editorCompatibility": "6000.3.0a1",
+      "version": "13.0.6",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.aseprite@3.0.2": {
+      "name": "com.unity.2d.aseprite",
+      "displayName": "2D Aseprite Importer",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.2d.aseprite@20edb5643ab5",
+      "fingerprint": "20edb5643ab59e7b1107541ab66691c4d5282cc8",
+      "editorCompatibility": "6000.3.0a2",
+      "version": "3.0.2",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.psdimporter@12.0.2": {
+      "name": "com.unity.2d.psdimporter",
+      "displayName": "2D PSD Importer",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.2d.psdimporter@f207d91d598d",
+      "fingerprint": "f207d91d598dbf43af8d25dec9312e71ece7531a",
+      "editorCompatibility": "6000.3.0a2",
+      "version": "12.0.2",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.2d.sprite@5b922524bd83",
+      "fingerprint": "5b922524bd83a860cb253077a959065a136c5931",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.2d.spriteshape@13.0.0": {
+      "name": "com.unity.2d.spriteshape",
+      "displayName": "2D SpriteShape",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.2d.spriteshape@0738bab11647",
+      "fingerprint": "0738bab116473980325be8cdb7c3c42ab6961778",
+      "editorCompatibility": "6000.3.0a2",
+      "version": "13.0.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.tilemap@1.0.0": {
+      "name": "com.unity.2d.tilemap",
+      "displayName": "2D Tilemap Editor",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.2d.tilemap@f666889fd587",
+      "fingerprint": "f666889fd58795c17d74fd2749dfaa0e8cf0bfc7",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.2d.tilemap.extras@6.0.3": {
+      "name": "com.unity.2d.tilemap.extras",
+      "displayName": "2D Tilemap Extras",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.2d.tilemap.extras@58739e072909",
+      "fingerprint": "58739e072909e7c1a00c2b86ac189978494d82e6",
+      "editorCompatibility": "6000.3.0a1",
+      "version": "6.0.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.tooling@1.0.4": {
+      "name": "com.unity.2d.tooling",
+      "displayName": "2D Tooling",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.2d.tooling@04422e023209",
+      "fingerprint": "04422e0232093804a1590b2194239896d20adc42",
+      "editorCompatibility": "6000.3.0a1",
+      "version": "1.0.4",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.collab-proxy@2.13.6": {
+      "name": "com.unity.collab-proxy",
+      "displayName": "Unity Version Control",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4",
+      "fingerprint": "4628d2ba6ea45aaa16a8b78239d0f6f9c2176982",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "2.13.6",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ide.rider@3.0.40": {
+      "name": "com.unity.ide.rider",
+      "displayName": "JetBrains Rider Editor",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.ide.rider@e4950c6d131b",
+      "fingerprint": "e4950c6d131b925f19dd0b34bdf800110120f8de",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "3.0.40",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ide.visualstudio@2.0.26": {
+      "name": "com.unity.ide.visualstudio",
+      "displayName": "Visual Studio Editor",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.ide.visualstudio@a99d56dec63f",
+      "fingerprint": "a99d56dec63ffb3a911a5a9bce9b77ba862a601c",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "2.0.26",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.inputsystem@1.20.0": {
+      "name": "com.unity.inputsystem",
+      "displayName": "Input System",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.inputsystem@7a4e1a2a8194",
+      "fingerprint": "7a4e1a2a81941121ffc0721a14009b46299dada1",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "1.20.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.multiplayer.center@1.0.1": {
+      "name": "com.unity.multiplayer.center",
+      "displayName": "Multiplayer Center",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.multiplayer.center@f01f4ba8d00a",
+      "fingerprint": "f01f4ba8d00afa4e957bddf0fcd1612a564401ff",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "1.0.1",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.render-pipelines.universal@17.3.0": {
+      "name": "com.unity.render-pipelines.universal",
+      "displayName": "Universal Render Pipeline",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.render-pipelines.universal@7865b6b91f8a",
+      "fingerprint": "7865b6b91f8a2b4a177f30b991fea337635aad79",
+      "editorCompatibility": "6000.3.0a1",
+      "version": "17.3.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.test-framework@1.6.0": {
+      "name": "com.unity.test-framework",
+      "displayName": "Test Framework",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.test-framework@bd7f943e9647",
+      "fingerprint": "bd7f943e964734fe159ef03827ee64a0ab725741",
+      "editorCompatibility": "6000.0.44f1",
+      "version": "1.6.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.timeline@1.8.13": {
+      "name": "com.unity.timeline",
+      "displayName": "Timeline",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.timeline@3a22918286f5",
+      "fingerprint": "3a22918286f51d73dd374b3f8051050ab2ab08ac",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "1.8.13",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "displayName": "uGUI",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.ugui@27635d171b1a",
+      "fingerprint": "27635d171b1ab7c244ef67aa22f59c4fbb4e52f9",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.visualscripting@1.9.12": {
+      "name": "com.unity.visualscripting",
+      "displayName": "Visual Scripting",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.visualscripting@4edfcc09512f",
+      "fingerprint": "4edfcc09512f786fe1a7f50476d320b36dab9676",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "1.9.12",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.modules.accessibility@1.0.0": {
+      "name": "com.unity.modules.accessibility",
+      "displayName": "Accessibility",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.accessibility",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.adaptiveperformance@1.0.0": {
+      "name": "com.unity.modules.adaptiveperformance",
+      "displayName": "Adaptive Performance",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.adaptiveperformance",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "displayName": "AI",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.androidjni@1.0.0": {
+      "name": "com.unity.modules.androidjni",
+      "displayName": "Android JNI",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.androidjni",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "displayName": "Animation",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.assetbundle@1.0.0": {
+      "name": "com.unity.modules.assetbundle",
+      "displayName": "Asset Bundle",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.assetbundle",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "displayName": "Audio",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.cloth@1.0.0": {
+      "name": "com.unity.modules.cloth",
+      "displayName": "Cloth",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.cloth",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.director@1.0.0": {
+      "name": "com.unity.modules.director",
+      "displayName": "Director",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.director",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "displayName": "Image Conversion",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "displayName": "IMGUI",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "displayName": "JSONSerialize",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.particlesystem@1.0.0": {
+      "name": "com.unity.modules.particlesystem",
+      "displayName": "Particle System",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.particlesystem",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "displayName": "Physics",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.physics2d@1.0.0": {
+      "name": "com.unity.modules.physics2d",
+      "displayName": "Physics 2D",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.physics2d",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.screencapture@1.0.0": {
+      "name": "com.unity.modules.screencapture",
+      "displayName": "Screen Capture",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.screencapture",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.terrain@1.0.0": {
+      "name": "com.unity.modules.terrain",
+      "displayName": "Terrain",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.terrain",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.terrainphysics@1.0.0": {
+      "name": "com.unity.modules.terrainphysics",
+      "displayName": "Terrain Physics",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.terrainphysics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.tilemap@1.0.0": {
+      "name": "com.unity.modules.tilemap",
+      "displayName": "Tilemap",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.tilemap",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "displayName": "UI",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "displayName": "UIElements",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.umbra@1.0.0": {
+      "name": "com.unity.modules.umbra",
+      "displayName": "Umbra",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.umbra",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unityanalytics@1.0.0": {
+      "name": "com.unity.modules.unityanalytics",
+      "displayName": "Unity Analytics",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.unityanalytics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "displayName": "Unity Web Request",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestassetbundle",
+      "displayName": "Unity Web Request Asset Bundle",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequestaudio@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestaudio",
+      "displayName": "Unity Web Request Audio",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.unitywebrequestaudio",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequesttexture@1.0.0": {
+      "name": "com.unity.modules.unitywebrequesttexture",
+      "displayName": "Unity Web Request Texture",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.unitywebrequesttexture",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequestwww@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestwww",
+      "displayName": "Unity Web Request WWW",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.unitywebrequestwww",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.vectorgraphics@1.0.0": {
+      "name": "com.unity.modules.vectorgraphics",
+      "displayName": "Vector Graphics",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.vectorgraphics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.vehicles@1.0.0": {
+      "name": "com.unity.modules.vehicles",
+      "displayName": "Vehicles",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.vehicles",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.video@1.0.0": {
+      "name": "com.unity.modules.video",
+      "displayName": "Video",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.video",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.vr@1.0.0": {
+      "name": "com.unity.modules.vr",
+      "displayName": "VR",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.vr",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.wind@1.0.0": {
+      "name": "com.unity.modules.wind",
+      "displayName": "Wind",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.wind",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.xr@1.0.0": {
+      "name": "com.unity.modules.xr",
+      "displayName": "XR",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.xr",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "displayName": "Subsystems",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "displayName": "Hierarchy Core",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "displayName": "Custom NUnit",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.ext.nunit@d8c07649098d",
+      "fingerprint": "d8c07649098d3936da4c8ab500960c1776b44592",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.render-pipelines.core@17.3.0": {
+      "name": "com.unity.render-pipelines.core",
+      "displayName": "Scriptable Render Pipeline Core",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.render-pipelines.core@0bb36005e9ba",
+      "fingerprint": "0bb36005e9ba80bf8ec214731ef075a7f779be82",
+      "editorCompatibility": "6000.3.0a1",
+      "version": "17.3.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.shadergraph@17.3.0": {
+      "name": "com.unity.shadergraph",
+      "displayName": "Shader Graph",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.shadergraph@b4b75cc00891",
+      "fingerprint": "b4b75cc0089134c902b45d0ce652fb8714716160",
+      "editorCompatibility": "6000.3.0a1",
+      "version": "17.3.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.render-pipelines.universal-config@17.0.3": {
+      "name": "com.unity.render-pipelines.universal-config",
+      "displayName": "Universal Render Pipeline Config",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.render-pipelines.universal-config@8dc1aab4af1d",
+      "fingerprint": "8dc1aab4af1d718781689a36ed5231a35ad1a524",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.2d.common@12.0.4": {
+      "name": "com.unity.2d.common",
+      "displayName": "2D Common",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.2d.common@3e42aeccb30d",
+      "fingerprint": "3e42aeccb30d663c0e27cad062507d5603247d7a",
+      "editorCompatibility": "6000.3.0a2",
+      "version": "12.0.4",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.mathematics@1.3.3": {
+      "name": "com.unity.mathematics",
+      "displayName": "Mathematics",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.mathematics@19a9377c4ffa",
+      "fingerprint": "19a9377c4ffa59370edad3e6a34e4445529badde",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.3.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.collections@2.6.8": {
+      "name": "com.unity.collections",
+      "displayName": "Collections",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.collections@84e8eb3fc12e",
+      "fingerprint": "84e8eb3fc12e12e29c3b3d102c904e2f8f2ca6e5",
+      "editorCompatibility": "2022.3.20f1",
+      "version": "2.6.8",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.searcher@4.9.5": {
+      "name": "com.unity.searcher",
+      "displayName": "Searcher",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.searcher@a463122f2c00",
+      "fingerprint": "a463122f2c00f83398f41790942a0793431e70ea",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "4.9.5",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.burst@1.8.30": {
+      "name": "com.unity.burst",
+      "displayName": "Burst",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.burst@2f3d916873ea",
+      "fingerprint": "2f3d916873ea867ff077372df3fe42447ba7d4c6",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "1.8.30",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.nuget.mono-cecil@1.11.6": {
+      "name": "com.unity.nuget.mono-cecil",
+      "displayName": "Mono Cecil",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff",
+      "fingerprint": "ecb9724e46fff855c46a4f37f0a3377a3cfffc06",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "1.11.6",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.test-framework.performance@3.5.0": {
+      "name": "com.unity.test-framework.performance",
+      "displayName": "Performance testing API",
+      "resolvedPath": "/Users/avastubblefield/Documents/Game Dev/Apple Drop/Library/PackageCache/com.unity.test-framework.performance@8b56083ec0f0",
+      "fingerprint": "8b56083ec0f03c33121bea5c806c91b0fa2f2b69",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "3.5.0",
+      "source": "registry",
+      "testable": false
+    }
+  }
+}
